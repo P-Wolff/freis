@@ -1,0 +1,49 @@
+.ex3-page{
+
+    .logica{
+
+display: flex;
+flex-direction: column;
+background-color: #ffffff;
+padding: 30px;
+border-radius: 15px;
+box-shadow: 1px 1px 2px #000;
+
+
+
+input{
+
+padding: 5px;
+border-radius: 10px;
+width: 100px;
+margin-left: 30px;
+margin-top: 10px;
+}
+
+button{
+
+max-width: 150px;
+margin-left: 400px;
+margin-top: 60px;
+padding: 10px;
+background-color: #6262e6;
+color: #ffffff;
+border-radius: 10px;
+}
+
+.inputs{
+
+display: flex;
+flex-direction: row;
+gap: 35px;
+
+}
+
+    }
+
+
+.resultado{
+
+    margin-left: 290px;
+    }
+}
